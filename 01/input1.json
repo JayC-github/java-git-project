@@ -1,0 +1,11 @@
+{ "command": "room", "venue": "UNSW HALL", "room": "room1", "size": "small" }
+{ "command": "room", "venue": "UNSW HALL", "room": "room2", "size": "medium" }
+{ "command": "room", "venue": "UNSW HALL", "room": "room3", "size": "large" }
+{ "command": "list", "venue": "UNSW HALL" }
+{ "command": "request", "id": "Party", "start": "2020-06-18", "end": "2020-06-20", "small": 0, "medium": 0, "large": 1 }
+{ "command": "request", "id": "Study", "start": "2020-06-16", "end": "2020-06-18", "small": 0, "medium": 0, "large": 1 }
+{ "command": "request", "id": "Game", "start": "2020-06-20", "end": "2020-06-21", "small": 0, "medium": 0, "large": 1 }
+{ "command": "request", "id": "Cook", "start": "2020-06-17", "end": "2020-06-19", "small": 0, "medium": 0, "large": 1 }
+{ "command": "request", "id": "Sleep", "start": "2020-06-18", "end": "2020-06-20", "small": 0, "medium": 0, "large": 1 }
+{ "command": "request", "id": "Drink", "start": "2020-06-21", "end": "2020-06-22", "small": 0, "medium": 0, "large": 1 }
+{ "command": "list", "venue": "UNSW HALL" }

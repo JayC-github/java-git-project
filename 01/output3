@@ -1,0 +1,204 @@
+[
+  {
+    "reservations": [],
+    "room": "room1a"
+  },
+  {
+    "reservations": [],
+    "room": "room1b"
+  },
+  {
+    "reservations": [],
+    "room": "room2a"
+  },
+  {
+    "reservations": [],
+    "room": "room2b"
+  },
+  {
+    "reservations": [],
+    "room": "room3a"
+  },
+  {
+    "reservations": [],
+    "room": "room3b"
+  },
+  {
+    "reservations": [],
+    "room": "room3c"
+  }
+]
+[
+  {
+    "reservations": [],
+    "room": "lab1a"
+  },
+  {
+    "reservations": [],
+    "room": "lab1b"
+  },
+  {
+    "reservations": [],
+    "room": "lab2a"
+  },
+  {
+    "reservations": [],
+    "room": "lab2b"
+  },
+  {
+    "reservations": [],
+    "room": "lab3a"
+  }
+]
+{
+  "venue": "UNSW",
+  "rooms": [
+    "room1a",
+    "room1b",
+    "room2a",
+    "room2b",
+    "room3a",
+    "room3b"
+  ],
+  "status": "success"
+}
+{
+  "venue": "CSE",
+  "rooms": [
+    "lab1a",
+    "lab1b",
+    "lab2a",
+    "lab2b",
+    "lab3a"
+  ],
+  "status": "success"
+}
+[
+  {
+    "reservations": [{
+      "start": "2020-06-06",
+      "end": "2020-06-08",
+      "id": "Study"
+    }],
+    "room": "room1a"
+  },
+  {
+    "reservations": [{
+      "start": "2020-06-06",
+      "end": "2020-06-08",
+      "id": "Study"
+    }],
+    "room": "room1b"
+  },
+  {
+    "reservations": [{
+      "start": "2020-06-06",
+      "end": "2020-06-08",
+      "id": "Study"
+    }],
+    "room": "room2a"
+  },
+  {
+    "reservations": [{
+      "start": "2020-06-06",
+      "end": "2020-06-08",
+      "id": "Study"
+    }],
+    "room": "room2b"
+  },
+  {
+    "reservations": [{
+      "start": "2020-06-06",
+      "end": "2020-06-08",
+      "id": "Study"
+    }],
+    "room": "room3a"
+  },
+  {
+    "reservations": [{
+      "start": "2020-06-06",
+      "end": "2020-06-08",
+      "id": "Study"
+    }],
+    "room": "room3b"
+  },
+  {
+    "reservations": [],
+    "room": "room3c"
+  }
+]
+[
+  {
+    "reservations": [{
+      "start": "2020-06-06",
+      "end": "2020-06-08",
+      "id": "Oweek"
+    }],
+    "room": "lab1a"
+  },
+  {
+    "reservations": [{
+      "start": "2020-06-06",
+      "end": "2020-06-08",
+      "id": "Oweek"
+    }],
+    "room": "lab1b"
+  },
+  {
+    "reservations": [{
+      "start": "2020-06-06",
+      "end": "2020-06-08",
+      "id": "Oweek"
+    }],
+    "room": "lab2a"
+  },
+  {
+    "reservations": [{
+      "start": "2020-06-06",
+      "end": "2020-06-08",
+      "id": "Oweek"
+    }],
+    "room": "lab2b"
+  },
+  {
+    "reservations": [{
+      "start": "2020-06-06",
+      "end": "2020-06-08",
+      "id": "Oweek"
+    }],
+    "room": "lab3a"
+  }
+]
+[
+  {
+    "reservations": [],
+    "room": "lab1a"
+  },
+  {
+    "reservations": [],
+    "room": "lab1b"
+  },
+  {
+    "reservations": [],
+    "room": "lab2a"
+  },
+  {
+    "reservations": [],
+    "room": "lab2b"
+  },
+  {
+    "reservations": [],
+    "room": "lab3a"
+  }
+]
+{
+  "venue": "CSE",
+  "rooms": [
+    "lab1a",
+    "lab1b",
+    "lab2a",
+    "lab2b",
+    "lab3a"
+  ],
+  "status": "success"
+}

@@ -1,0 +1,53 @@
+[
+  {
+    "reservations": [],
+    "room": "room1"
+  },
+  {
+    "reservations": [],
+    "room": "room2"
+  },
+  {
+    "reservations": [],
+    "room": "room3"
+  }
+]
+{
+  "venue": "UNSW HALL",
+  "rooms": ["room3"],
+  "status": "success"
+}
+{"status": "rejected"}
+{"status": "rejected"}
+{"status": "rejected"}
+{"status": "rejected"}
+{
+  "venue": "UNSW HALL",
+  "rooms": ["room3"],
+  "status": "success"
+}
+[
+  {
+    "reservations": [],
+    "room": "room1"
+  },
+  {
+    "reservations": [],
+    "room": "room2"
+  },
+  {
+    "reservations": [
+      {
+        "start": "2020-06-18",
+        "end": "2020-06-20",
+        "id": "Party"
+      },
+      {
+        "start": "2020-06-21",
+        "end": "2020-06-22",
+        "id": "Drink"
+      }
+    ],
+    "room": "room3"
+  }
+]

@@ -1,0 +1,22 @@
+{ "command": "room", "venue": "UNSW", "room": "room1a", "size": "small" }
+{ "command": "room", "venue": "UNSW", "room": "room1b", "size": "small" }
+{ "command": "room", "venue": "UNSW", "room": "room2a", "size": "medium" }
+{ "command": "room", "venue": "UNSW", "room": "room2b", "size": "medium" }
+{ "command": "room", "venue": "UNSW", "room": "room3a", "size": "large" }
+{ "command": "room", "venue": "UNSW", "room": "room3b", "size": "large" }
+{ "command": "room", "venue": "UNSW", "room": "room3c", "size": "large" }
+{ "command": "list", "venue": "UNSW" }
+{ "command": "room", "venue": "CSE", "room": "lab1a", "size": "small" }
+{ "command": "room", "venue": "CSE", "room": "lab1b", "size": "small" }
+{ "command": "room", "venue": "CSE", "room": "lab2a", "size": "medium" }
+{ "command": "room", "venue": "CSE", "room": "lab2b", "size": "medium" }
+{ "command": "room", "venue": "CSE", "room": "lab2b", "size": "medium" }
+{ "command": "room", "venue": "CSE", "room": "lab3a", "size": "large" }
+{ "command": "list", "venue": "CSE" }
+{ "command": "request", "id": "Study", "start": "2020-06-06", "end": "2020-06-08", "small": 2, "medium": 2, "large": 2 }
+{ "command": "request", "id": "Oweek", "start": "2020-06-06", "end": "2020-06-08", "small": 2, "medium": 2, "large": 1 }
+{ "command": "list", "venue": "UNSW" }
+{ "command": "list", "venue": "CSE" }
+{ "command": "cancel", "id": "Oweek" }
+{ "command": "list", "venue": "CSE" }
+{ "command": "request", "id": "NEWOweek", "start": "2020-06-06", "end": "2020-06-08", "small": 2, "medium": 2, "large": 1 }

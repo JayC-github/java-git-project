@@ -1,0 +1,53 @@
+[
+  {
+    "reservations": [],
+    "room": "room1"
+  },
+  {
+    "reservations": [],
+    "room": "room2"
+  },
+  {
+    "reservations": [],
+    "room": "room3"
+  }
+]
+{"status": "rejected"}
+{
+  "venue": "Home",
+  "rooms": ["room3"],
+  "status": "success"
+}
+{"status": "rejected"}
+{
+  "venue": "Home",
+  "rooms": ["room1"],
+  "status": "success"
+}
+{
+  "venue": "Home",
+  "rooms": ["room3"],
+  "status": "success"
+}
+[
+  {
+    "reservations": [{
+      "start": "2020-06-06",
+      "end": "2019-06-08",
+      "id": "Study"
+    }],
+    "room": "room1"
+  },
+  {
+    "reservations": [],
+    "room": "room2"
+  },
+  {
+    "reservations": [{
+      "start": "2020-06-06",
+      "end": "2020-06-08",
+      "id": "Sleep"
+    }],
+    "room": "room3"
+  }
+]
